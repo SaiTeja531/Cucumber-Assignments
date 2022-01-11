@@ -1,0 +1,6 @@
+stepDefinitions\Hooks.class
+stepDefinitions\SearchFlights.class
+stepDefinitions\AirasiaSteps.class
+stepDefinitions\TravelSteps.class
+stepDefinitions\AutomationPracticeSteps.class
+runnerClasses\FlightsTest.class
